@@ -1,3 +1,3 @@
 # iziappflow - Task ToDo
 
-- [*] Task 1
+- [x] Task 1
