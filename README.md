@@ -2,7 +2,7 @@
 
 ## Frontend
 
-- [x] Create a form which will take multiple inputs from the user and call an
+- [ ] Create a form which will take multiple inputs from the user and call an
       POST API on click of the submit. The form should have multiple pages. each
       form page can be routable.
 
